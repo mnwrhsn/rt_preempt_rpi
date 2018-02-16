@@ -1,5 +1,5 @@
-# rt_preempt_rpi
-RT_PREEMPT Patch for Raspberry Pi
+
+# RT_PREEMPT Patch for Raspberry Pi
 
 
 This documentation is forked from Frank Dürr:
