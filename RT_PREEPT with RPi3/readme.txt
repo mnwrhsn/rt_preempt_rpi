@@ -2,7 +2,7 @@ HOW TO INSTALL (Tested in Rpi3 Model B):
 
 * Install RPi OS from the given image (in the zip file: 2018-03-13-raspbian-stretch-lite.zip)
 
-Download location: https://mega.nz/#F!rzQAXIwL!H02_pOV5La5A9K48il_Hxw
+Download location: https://my.pcloud.com/publink/show?code=kZVRMQ7ZwNRGAAvlauFCACwbaR9LTYyIXsak
 
 
 * Login to Pi
