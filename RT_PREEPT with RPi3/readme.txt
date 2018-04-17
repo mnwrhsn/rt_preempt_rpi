@@ -13,6 +13,6 @@ Download location: https://my.pcloud.com/publink/show?code=kZVRMQ7ZwNRGAAvlauFCA
 
 sudo dpkg -i *.deb
 
-* (optional) add the following to /boot/config.txt 
+* add the following to /boot/config.txt 
 
 kernel=vmlinuz-4.9.80-rt62-v7+
