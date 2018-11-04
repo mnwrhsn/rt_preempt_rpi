@@ -4,6 +4,8 @@ HOW TO INSTALL (Tested in Rpi3 Model B):
 
 Download location: https://my.pcloud.com/publink/show?code=kZVRMQ7ZwNRGAAvlauFCACwbaR9LTYyIXsak
 
+MD5 hash: 618647c6646e36c0c6fbd44847e154b1
+
 
 * Login to Pi
 
